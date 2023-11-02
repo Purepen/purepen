@@ -1,7 +1,7 @@
 
 function Navbar() {
   return (
-    <div className="bg-[#312450] text-white flex justify-center p-4">
+    <div className="bg-[#312450] text-white flex justify-center w-full p-4 fixed">
       <nav>
         <ul className="flex gap-5 text-gray-300 text-xs font-semibold uppercase">
           <li>
