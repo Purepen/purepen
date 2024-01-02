@@ -17,8 +17,7 @@
     {
         "id": 3,
         "slug": "https://app.powerbi.com/view?r=eyJrIjoiNTNhNDE3NzQtOWZmNS00MmY4LWIxZmQtODRkZTI2N2JiYjdhIiwidCI6IjI5ZjY2ZDFkLWQ2MmItNDVjNi1hYTc0LTY0OTEzNWYxNzg4NSJ9&pageName=ReportSectionL",
-        "slug": "https://drive.google.com/drive/folders/1FScKXatmsjMsnCyCmy32VqXGXZQwSRp2",
-        "title": "cAR INSURANCE  ANALYSIS",
+        "title": "CAR INSURANCE  ANALYSIS",
         "description": "An exploratory analysis into  car insurance system, the profits and losses causes and future recommendations",
         "image": "https://purepen1.github.io/purepen.github.io/images/pic01.jpg"
     },
