@@ -19,7 +19,7 @@ function Projects() {
                 <span className="py-1 px-2 text-sm">
                   {project.description}
                 </span>
-                <a className="py-3 px-5 border-2 rounded-md" href={project.slug}>
+                <a className="py-3 px-5 border-2 rounded-md" href={project.links}>
                   VIEW PROJECT
                 </a>
               </div>
