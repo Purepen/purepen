@@ -2,80 +2,100 @@
     {
         "id": 1,
         "slug": "https://drive.google.com/drive/folders/1QnFrG9G0OH5D6p9iIRY322F74ln-rBvX",
+        "file": "https://drive.google.com/drive/folders/1XDhlMpoZyj924Bvg_Ys1uldoFuZiKIWD",
         "title": "TANZANIA AIR QUALITY TIME SERIES PREDICTION PROJECT",
         "description":"Embarking on a journey through Tanzania’s air reveals more than just data points; it unveils a narrative of environmental rhythms. In the pulsating heartbeats of time series, we unravel the nuanced tale of air quality, bridging the gap between data and the breath of a nation. <p> Join me in exploring the unseen symphony of Tanzania’s air, where each spike and dip echoes a story of environmental impact and resilience</p>",
+        "readMore": "add read more url here for project details",
         "image": "https://purepen1.github.io/purepen.github.io/images/pic01.jpg"
     },
     {
         "id": 2,
         "slug": "https://app.powerbi.com/view?r=eyJrIjoiNTBmYjJlMDItOWNjZi00YzUxLWI0NDEtNTNkZGE1MzAyOWQ1IiwidCI6IjI5ZjY2ZDFkLWQ2MmItNDVjNi1hYTc0LTY0OTEzNWYxNzg4NSJ9&pageName=ReportSection02ae2fc35460cb1da0c5",
-        "slug": "https://drive.google.com/drive/folders/1XDhlMpoZyj924Bvg_Ys1uldoFuZiKIWD",
+        "file": "https://drive.google.com/drive/folders/1XDhlMpoZyj924Bvg_Ys1uldoFuZiKIWD",
         "title": "CARS SPARE PARTS SALES ANALYSIS",
         "description": "A groundbreaking Power BI car sales dashboard that's not just visually stunning but loaded with insights for aspiring data analysts. Explore key data metrics, from total sales to profit growth, and discover intriguing patterns in sales segments, booking types, car colors, and regional trends.",
+        "readMore": "add read more url here for project details",
         "image": "https://purepen1.github.io/purepen.github.io/images/pic01.jpg"
     },
     {
         "id": 3,
         "slug": "https://app.powerbi.com/view?r=eyJrIjoiNTNhNDE3NzQtOWZmNS00MmY4LWIxZmQtODRkZTI2N2JiYjdhIiwidCI6IjI5ZjY2ZDFkLWQ2MmItNDVjNi1hYTc0LTY0OTEzNWYxNzg4NSJ9&pageName=ReportSectionL",
-        "slug"": "https://drive.google.com/drive/folders/1FScKXatmsjMsnCyCmy32VqXGXZQwSRp2"
+        "file": "https://drive.google.com/drive/folders/1FScKXatmsjMsnCyCmy32VqXGXZQwSRp2",
         "title": "CAR INSURANCE ANALYSIS",
         "description": "An exploratory analysis into the car insurance system, the profits and losses, causes, and future recommendations",
+        "readMore": "add read more url here for project details",
         "image": "https://purepen1.github.io/purepen.github.io/images/pic01.jpg"
     },
     {
         "id": 4,
         "slug": "COVID19-DATA-EXPLORATION-USING-SQL",
+        "file": "https://drive.google.com/drive/folders/1XDhlMpoZyj924Bvg_Ys1uldoFuZiKIWD",
         "title": "COVID19 DATA EXPLORATION USING SQL",
         "description": "Exploration of covid 19 dataset in SQL Server.",
+        "readMore": "add read more url here for project details",
         "image": "https://purepen1.github.io/purepen.github.io/images/pic01.jpg"
     },
     {
         "id": 5,
         "slug": "HOUSING DATA CLEANING USING SQL",
+        "file": "https://drive.google.com/drive/folders/1XDhlMpoZyj924Bvg_Ys1uldoFuZiKIWD",
         "title": "HOUSING DATA CLEANING USING SQL",
         "description": "Transformation of raw housing data in SQL Server to make it more useable for data analysis is what is done in this project.",
+        "readMore": "add read more url here for project details",
         "image": "https://purepen1.github.io/purepen.github.io/images/pic02.jpg"
     },
     {
         "id": 6,
         "slug": "AWESOME CHOCOLATE DATA EXPLORATION USING SQL",
+        "file": "https://drive.google.com/drive/folders/1XDhlMpoZyj924Bvg_Ys1uldoFuZiKIWD",
         "title": "AWESOME CHOCOLATE DATA EXPLORATION USING SQL",
         "description": "Random sales dataset explored using SQL Server as an instrument.",
+        "readMore": "add read more url here for project details",
         "image": "https://purepen1.github.io/purepen.github.io/images/pic03.jpg"
     },
     {
         "id": 7,
         "slug": "AMAZON WEB SCRAPPER WITH PYTHON",
+        "file": "https://drive.google.com/drive/folders/1XDhlMpoZyj924Bvg_Ys1uldoFuZiKIWD",
         "title": "AMAZON WEB SCRAPPER WITH PYTHON",
         "description": "In this project we scrape data from amazon to analyze price data for products",
+        "readMore": "add read more url here for project details",
         "image": "https://purepen1.github.io/purepen.github.io/images/pic04.jpg"
     },
     {
         "id": 8,
         "slug": "AUTOMATE CRYPTO API PULL USING PYTHON",
+        "file": "https://drive.google.com/drive/folders/1XDhlMpoZyj924Bvg_Ys1uldoFuZiKIWD",
         "title": "AUTOMATE CRYPTO API PULL USING PYTHON",
         "description": "In this project, crypto data is cleaned, automated and visualized",
+        "readMore": "add read more url here for project details",
         "image": "https://purepen1.github.io/purepen.github.io/images/pic05.jpg"
     },
     {
         "id": 9,
         "slug": "SALES DASHBOARD WITH POWER BI",
+        "file": "https://drive.google.com/drive/folders/1XDhlMpoZyj924Bvg_Ys1uldoFuZiKIWD",
         "title": "SALES DASHBOARD WITH POWER BI",
         "description": "Data visualization Analysis on a super store supermarket.",
+        "readMore": "add read more url here for project details",
         "image": "https://purepen1.github.io/purepen.github.io/images/pic06.jpg"
     },
     {
         "id": 10,
         "slug": "CREDIT CARD TRANSACTION ANALYSIS WITH POWER BI",
+        "file": "https://drive.google.com/drive/folders/1XDhlMpoZyj924Bvg_Ys1uldoFuZiKIWD",
         "title": "CREDIT CARD TRANSACTION ANALYSIS WITH POWER BI",
         "description": "A data visualization analysis on a credit card transaction in india",
+        "readMore": "add read more url here for project details",
         "image": "https://purepen1.github.io/purepen.github.io/images/pic07.jpg"
     },
     {
         "id": 11,
         "slug": "WHATSAPP GROUP ANALYSIS",
+        "file": "https://drive.google.com/drive/folders/1XDhlMpoZyj924Bvg_Ys1uldoFuZiKIWD",
         "title": "WHATSAPP GROUP ANALYSIS",
         "description": "In this analysis a particular whatsapp group is detailed of its every data",
+        "readMore": "add read more url here for project details",
         "image": "https://purepen1.github.io/purepen.github.io/images/pic08.jpg"
     }
 ]
