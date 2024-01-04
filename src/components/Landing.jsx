@@ -8,7 +8,7 @@ function Landing() {
             <div className="grid xl:col-span-2 rounded-full">
               <img
                 className="md:h-96 md:w-96 object-cover rounded-full"
-                src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.mj1l753EgMwOfLFDRLvKxgAAAA%26pid%3DApi&f=1&ipt=608459c5e138dda1f9209a4aa1bec33a90b621be7fe32dfc9efadedf85d2c3b6&ipo=images"
+                src="https://purepen1.github.io/purepen.github.io/images/main01.jpg"
                 alt="profile"
               />
             </div>
@@ -40,7 +40,7 @@ function Landing() {
               <div className="grid md:col-span-2">
                 <img
                   className="md:h-96 md:w-96 w-full object-cover"
-                  src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.mj1l753EgMwOfLFDRLvKxgAAAA%26pid%3DApi&f=1&ipt=608459c5e138dda1f9209a4aa1bec33a90b621be7fe32dfc9efadedf85d2c3b6&ipo=images"
+                  src="https://purepen1.github.io/purepen.github.io/images/main02.jpeg"
                   alt="profile"
                 />
               </div>
