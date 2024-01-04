@@ -57,7 +57,7 @@ function Contacts() {
                   +2347031643120
                 </a> 
                 <a href="tel:+2349041592542" className="text-lg">
-                  +234904159254
+                  +2349041592542
                 </a>
               </div>
               <div className="grid gap-2 w-full">
