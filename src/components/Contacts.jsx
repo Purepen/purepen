@@ -55,6 +55,9 @@ function Contacts() {
                 <label className="font-bold text-lg">Phone</label>
                 <a href="tel:+2347031643120" className="text-lg">
                   +2347031643120
+                </a> 
+                <a href="tel:+2349041592542" className="text-lg">
+                  +234904159254
                 </a>
               </div>
               <div className="grid gap-2 w-full">
@@ -75,7 +78,7 @@ function Contacts() {
                     <FaFacebookF />
                   </a>
                   <a
-                    href="https://github.com/purepen1"
+                    href="https://github.com/purepen"
                     target="blank"
                     className="text-lg"
                   >
